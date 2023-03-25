@@ -1,0 +1,22 @@
+.dialog {
+  z-index: 999;
+  width: 500px;
+  height: 100px;
+  background: black;
+  position: absolute;
+  right: 40%;
+  top: 2%;
+  border: 10px;
+  color: aliceblue;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: white; /* blue color */
+}

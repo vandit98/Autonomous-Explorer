@@ -3,7 +3,7 @@
 #### What is Autonomous Explorer?
 Autonomous Explorer is a project that involves building a rover that can autonomously explore its environment and reach its destination using Deep Reinforcement Learning techniques. The project uses ReactJS and ThreeJS for the frontend and FastAPI for backend integration.
 
-Neat cars allows you to draw a track, choose a starting point and watch the magic happen: the cars will drive themselves and constantly improve their driving skills.
+Our projcect allows you to draw a track, choose a starting point and watch the magic happen , how rover reach navigates to its path: the rover will drive themselves and constantly improve their driving skills.
 
 You will also be able to observe the Artificial Neural Network of the best car from the generation.
 

@@ -7,7 +7,7 @@ Our projcect allows you to draw a track, choose a starting point and watch the m
 
 You will also be able to observe the Artificial Neural Network of the best car from the generation.
 
-This web aplication and the reinforcement learning model has been submitted as a part of the final presentation given by our team ([Vandit Tyagi](https://github.com/vandit98)and [Gautam Sarawagi](https://github.com/gautamsarawagi)) in the country's first, one of a  unique Hackathon - _**HackTheChain**
+This web aplication and the reinforcement learning model has been submitted as a part of the final presentation given by our team ([Vandit Tyagi](https://github.com/vandit98)and [Gautam Sarawagi](https://github.com/gautamsarawagi)).
 
 View our [Final's Presenation](https://www.canva.com/design/DAFVjz4LGfA/YdlMV9HC5rp3eWnXbwPpww/view?utm_content=DAFVjz4LGfA&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent) here.
 
